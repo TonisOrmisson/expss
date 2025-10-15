@@ -1,5 +1,6 @@
 #' Cross-tabulation with custom summary function.
 #' 
+#' There are following functions for cross tables:
 #' \itemize{
 #' \item \code{cross_mean}, \code{cross_sum}, \code{cross_median} calculate 
 #' mean/sum/median by groups. NA's are always omitted.

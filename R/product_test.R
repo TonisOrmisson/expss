@@ -11,7 +11,6 @@
 #'    
 #' 
 #' @format A data frame with 150 rows and 18 variables:
-#' \describe{
 #' \itemize{
 #'    \item id Respondent Id.
 #'    \item cell First tested product (cell number).
@@ -31,7 +30,6 @@
 #'    \item b1_6 (continue) What did you like in these sweets? Multiple response. Second tested product.
 #'    \item b22 Overall liking. Second tested product.
 #'    \item c1 Preferences.
-#'    }
 #' }
 #' @docType data
 "product_test"
